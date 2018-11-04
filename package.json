@@ -1,0 +1,15 @@
+{
+  "name": "js-test",
+  "version": "1.0.0",
+  "description": "A basic JavaScript exam for GraphicWeave's devs.",
+  "main": "index.js",
+  "author": "Mustansir Zia",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "jest --watchAll"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
