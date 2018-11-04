@@ -41,5 +41,10 @@ Note - We'll automatically be watching any changes to `index.js` and the test ca
 
 <br />
 
+# Contribution.
+• Please feel free to add more levels as PRs. Cheers!
+
+<br />
+
 # License.
 • [MIT](/License.txt).
