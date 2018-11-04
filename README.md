@@ -2,7 +2,7 @@
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-#### This is a very simple JavaScript test to make you feel comfortable with arrays, strings, objects and JavaScript in general. For now, it has only two levels. Level-1 and Level-2.
+#### This is a very simple JavaScript exam to make you feel comfortable with arrays, strings, objects and JavaScript in general. For now, it has only two levels. Level-1 and Level-2.
 
 ## Level - 1.
 
