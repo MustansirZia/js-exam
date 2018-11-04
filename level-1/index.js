@@ -57,9 +57,12 @@ output: boolean = false
 
 input: String = 'acbca'
 output: boolean = true
+
+input: String = A man, a plan, a canal, Panama!
+output: boolean = true
 */
 function isPalindrome(input) {
-
+    
 }
 
 

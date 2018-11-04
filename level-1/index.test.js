@@ -52,7 +52,7 @@ describe('Test numberOfCharactersInString', () => {
 });
 
 describe('Test isPalindrome', () => {
-    test.each([['abccdeffgg', false], ['acbca', true], ['acbbca', true]])( 
+    test.each([['abccdeffgg', false], ['acbca', true], ['Mustansir Zia', false], ['acbbca', true], ['Was it a car or a cat I saw?', true]])( 
         'Return value should be a boolean (true or false) to indicate whether the input was a palindrome or not.', 
         (item, expected) => {
         expect(isPalindrome(item)).toBe(expected);
