@@ -21,7 +21,7 @@ Instructions for what each function should do is written above each function ins
 <br />
 
 To start taking the test:
-* `git clone https://github.com/graphicweave/js-test`.
+* `git clone https://github.com/MustansirZia/js-test`.
 <br />
  
 * `cd js-test && npm install` (or `yarn`). 
